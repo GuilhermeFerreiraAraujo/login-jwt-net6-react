@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Authenticator", "Authenticator\Authenticator.csproj", "{D797F0D5-6D3C-48C5-AFA4-A631FA280209}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D797F0D5-6D3C-48C5-AFA4-A631FA280209}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D797F0D5-6D3C-48C5-AFA4-A631FA280209}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D797F0D5-6D3C-48C5-AFA4-A631FA280209}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D797F0D5-6D3C-48C5-AFA4-A631FA280209}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD6922E5-66D7-4448-A681-091B76E59C86}
+	EndGlobalSection
+EndGlobal
